@@ -2,6 +2,6 @@
 
 Programming Language: Python 3.x
 
-Code : 
+[Click here for code](https://github.com/ktyagi12/Projects/tree/master/Head_Tail_Frequency/code)
 
-Output graph: 
+[Click here for output](https://github.com/ktyagi12/Projects/tree/master/Head_Tail_Frequency/output)
