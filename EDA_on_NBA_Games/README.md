@@ -28,8 +28,8 @@
   
       • Summarise any insights which you gained from your analysis of the data. Suggest ideas for further analysis which could be performed on the data in future.
 
-[Click here for the code](https://github.com/ktyagi12/Projects/new/master/EDA_on_NBA_Games/code)
+[Click here for the code](https://github.com/ktyagi12/Projects/tree/master/EDA_on_NBA_Games/code)
 
-[Click here for the Input](https://github.com/ktyagi12/Projects/new/master/EDA_on_NBA_Games/input)
+[Click here for the Input](https://github.com/ktyagi12/Projects/tree/master/EDA_on_NBA_Games/input)
 
-[Click here for the Output](https://github.com/ktyagi12/Projects/new/master/EDA_on_NBA_Games/output)
+[Click here for the Output](https://github.com/ktyagi12/Projects/tree/master/EDA_on_NBA_Games/output)
