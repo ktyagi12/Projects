@@ -108,9 +108,9 @@
 ![image](https://user-images.githubusercontent.com/38240162/87242194-658ea200-c422-11ea-8d2c-cdb2116db195.png)
 
 
-[Click here for the Code](https://github.com/ktyagi12/Projects/edit/master/PneumoniaDetection/code)
+[Click here for the Code](https://github.com/ktyagi12/Projects/tree/master/PneumoniaDetection/code)
 
-[Click here for the Input](https://github.com/ktyagi12/Projects/edit/master/PneumoniaDetection/input)
+[Click here for the Input](https://github.com/ktyagi12/Projects/tree/master/PneumoniaDetection/input)
 
 [Click here for the Output](https://github.com/ktyagi12/Projects/new/master/PneumoniaDetection/output)
 
