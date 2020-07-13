@@ -110,7 +110,7 @@
 
 [Click here for the Code](https://github.com/ktyagi12/Projects/tree/master/PneumoniaDetection/code)
 
-[Click here for the Input](https://github.com/ktyagi12/Projects/tree/master/PneumoniaDetection/input)
+[Click here for the Input](https://github.com/ktyagi12/Projects/tree/master/PneumoniaDetection/input/chest_xray)
 
 [Click here for the Output](https://github.com/ktyagi12/Projects/new/master/PneumoniaDetection/output)
 
