@@ -4,18 +4,14 @@
 
 **IDE:** Jupyter Notebook
 
-**AIM:** Scrape consumer reviews from a set of web pages and to evaluate the performance of text classification algorithms on the data.
-
-Each review has a star rating. For this assignment, we will assume that 1-star to 3-star reviews are “negative”, and 4-star to 5-star reviews are “positive”.
+**AIM:** Scrape consumer reviews from a set of web pages and to evaluate the performance of text classification algorithms on the data. Each review has a star rating. For this assignment, we will assume that 1-star to 3-star reviews are “negative”, and 4-star to 5-star reviews are “positive”.
 
 **TASKS:**
 
 1. Select three review categories of your choice. Scrape all reviews for each category and store them as three separate datasets. For each review, there is a review text and a class label (i.e. “positive” or “negative”).
 2. For each of the three category datasets:
   
-    a. From the reviews in this category, apply preprocessing steps to create a numeric representation of the data, suitable for classification.
-    
-     A various number of pre-processing steps are performed on the reviews data so that they can take a form easily used to build the model. Steps are as follows:
+    a. From the reviews in this category, apply preprocessing steps to create a numeric representation of the data, suitable for classification. A various number of pre-processing steps are performed on the reviews data so that they can take a form easily used to build the model. Steps are as follows:
 
         Data Normalisation
         Lemmatization
