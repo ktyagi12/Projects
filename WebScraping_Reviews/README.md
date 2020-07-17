@@ -12,11 +12,11 @@
 2. For each of the three category datasets:
   
     a. From the reviews in this category, apply preprocessing steps to create a numeric representation of the data, suitable for classification. A various number of pre-processing steps are performed on the reviews data so that they can take a form easily used to build the model. Steps are as follows:
-
-        Data Normalisation
-        Lemmatization
-        Stop Word removal
-        TF-IDF Vectorisation
+        
+        1. Data Normalisation
+        2. Lemmatization
+        3. Stop Word removal
+        4. TF-IDF Vectorisation
   
     Data cleaning and transformation are methods used to remove outliers and standardize the data so that they take a form that can be easily used to create a model.
   
